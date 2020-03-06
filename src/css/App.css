@@ -1,0 +1,10 @@
+body{
+	background: #e8e8ff;
+}
+.info{
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: center;
+	align-self: center;
+}
